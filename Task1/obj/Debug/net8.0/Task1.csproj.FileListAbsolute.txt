@@ -1,0 +1,15 @@
+/Users/alim/Desktop/Home/Task1/bin/Debug/net8.0/Task1
+/Users/alim/Desktop/Home/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/alim/Desktop/Home/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/alim/Desktop/Home/Task1/bin/Debug/net8.0/Task1.dll
+/Users/alim/Desktop/Home/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.dll
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/alim/Desktop/Home/Task1/obj/Debug/net8.0/ref/Task1.dll
